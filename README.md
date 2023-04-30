@@ -8,9 +8,13 @@ This is a simple To-Do List app built using the MERN stack. The app allows users
 
 1. Clone the repository using `git clone https://github.com/Rajeshds20/CodeClause-To-Do-App.git`
 2. `cd` into the project directory
-3. Install the dependencies using `npm install`
-4. Run the app using `npm start`
-5. The app will be available at `http://localhost:3000`
+3. Go to Front End using `cd frontend` 
+4. Install the dependencies using `npm install` 
+5. Run the app using `npm start`
+6. Go to Backend using `cd backend`
+7. Install the dependencies using `npm install`
+8. Run the app using `npm start`
+9. The app will be available at `http://localhost:3000`
 
 ## Features
 
